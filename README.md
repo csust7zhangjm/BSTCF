@@ -2,6 +2,8 @@
 
 Jianming Zhang*, Yaoqi He, Wenjun Feng, Jin Wang, Neal N. Xiong. Learning Background-aware and Spatial-temporal Regularized Correlation Filters for Visual Tracking. 
 
-Submitted to *Applied Intelligence*
+*Applied Intelligence*, DOI: 10.1007/s10489-022-03868-8.
+WOS: 000830340500001
 
-If the above manuscript is accepted, the code and data to the manuscript will be publicly available for free. 
+The above paper is accepted and published online, and the code and data to the paper is publicly available for free.
+If you refer to these codes, please cite this paper.
